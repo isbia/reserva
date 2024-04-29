@@ -2,8 +2,23 @@
 
 ## Projeto prático API Restful NodeJs e MongoBD
 
-### Desenvolvimento em Noje.js (ersão 20.10)
+### Desenvolvimento em Noje.js (versão 20.10)
 
-_linguagem de Programação_ **CARLPRO**
+Projeto criado na Linguagem de Programação
+Curso: Técnico de Informática Integrado ao Ensino Médio
+Instituto federal de São Paulo - Campus Caraguatatuba
 
-treinamento de comandos git como parte do aprendizado de Franework **Node.JS
+#### Pacotes Utilizados
+
+* nodemon
+* express
+* sucrase
+* dotenv
+* mongoose
+* multer
+* yup
+* cors
+
+#### Banco de Dados:MongoBD
+
+Autor: **Ana Beatriz Silva
