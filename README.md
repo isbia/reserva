@@ -2,7 +2,7 @@
 
 ## Projeto prático API Restful NodeJs e MongoBD
 
-### Desenvolvimento em Noje.js (versão 20.10)
+### Desenvolvimento em Node.js (versão 20.10)
 
 Projeto criado na Linguagem de Programação
 Curso: Técnico de Informática Integrado ao Ensino Médio
